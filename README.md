@@ -1,2 +1,2 @@
-# multi
+# multimedia
 과제
